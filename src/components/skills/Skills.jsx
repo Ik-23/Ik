@@ -58,11 +58,11 @@ const Skills = () => {
                     <small className='text-light'>40%...⌛</small>
                   </article>
                   
-                  {/* <article className='skill__details'>
-                    <RiChatCheckFill/>
-                    <h4>MongoDB</h4>
-                    <small className='text-light'>40%...⌛</small>
-                  </article> */}
+                  <article className='skill__details'>
+                    {/* <RiChatCheckFill/> */}
+                    <h4>UI/UX Design</h4>
+                    {/* <small className='text-light'></small> */}
+                  </article>
 
                 </div>
             </div>

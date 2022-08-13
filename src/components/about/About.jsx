@@ -38,10 +38,11 @@ const About = () => {
           </div>
 
           <p className='about__content'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos ullam, voluptatum aperiam aliquam et nemo quos quia sint maxime excepturi doloremque voluptatibus, magni in eaque.
+            I started sketching when I was 3 years old, when I first drew two mountains and a cone-shaped sun in between.
+            <br/><br/>I like Sketching and building Websites...🧑🏻‍💻
           </p>
 
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          {/* <a href="#contact" className='btn btn-primary'>Let's Talk</a> */}
 
         </div>
 
