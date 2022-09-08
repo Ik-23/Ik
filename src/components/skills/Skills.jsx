@@ -19,7 +19,7 @@ const Skills = () => {
                   <article className='skill__details'>
                     {/* <RiChatCheckFill/> */}
                     <h4>HTML</h4>
-                    <small className='text-light'>80%</small>
+                    <small className='text-light'>70%</small>
                   </article>
 
                   <article className='skill__details'>
@@ -36,31 +36,31 @@ const Skills = () => {
 
                   <article className='skill__details'>
                     {/* <RiChatCheckFill/> */}
+                    <h4>React</h4>
+                    <small className='text-light'>40%...⌛</small>
+                  </article>
+
+                  <article className='skill__details'>
+                    {/* <RiChatCheckFill/> */}
+                    <h4>UI/UX Design</h4>
+                    {/* <small className='text-light'>50%...⌛</small> */}
+                  </article>
+
+                  <article className='skill__details'>
+                    {/* <RiChatCheckFill/> */}
                     <h4>MySQL</h4>
                     <small className='text-light'>70%</small>
                   </article>
 
                   <article className='skill__details'>
                     {/* <RiChatCheckFill/> */}
-                    <h4>JavaScript</h4>
-                    <small className='text-light'>50%...⌛</small>
-                  </article>
-
-                  <article className='skill__details'>
-                    {/* <RiChatCheckFill/> */}
-                    <h4>React</h4>
-                    <small className='text-light'>50%...⌛</small>
-                  </article>
-
-                  <article className='skill__details'>
-                    {/* <RiChatCheckFill/> */}
-                    <h4>Node JS</h4>
-                    <small className='text-light'>40%...⌛</small>
+                    {/* <h4>Node JS</h4>
+                    <small className='text-light'>40%...⌛</small> */}
                   </article>
                   
                   <article className='skill__details'>
                     {/* <RiChatCheckFill/> */}
-                    <h4>UI/UX Design</h4>
+                    {/* <h4>JavaScript</h4> */}
                     {/* <small className='text-light'></small> */}
                   </article>
 
